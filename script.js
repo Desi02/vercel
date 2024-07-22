@@ -17,4 +17,4 @@ const relogio = setInterval(function time() {
     segundos.textContent = s;
 }, 1000); // 1000 milliseconds = 1 second
 
-    
+ 
